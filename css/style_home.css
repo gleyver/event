@@ -1,0 +1,126 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body{
+    background-image: url(../imagem/background_home.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+textarea{
+    resize: none;
+}
+
+.content{
+    width:50%;
+    height: 100%;
+    opacity: 0.7;
+    background-color: black;
+    position: fixed;
+    margin-left: 400px;
+    z-index: 1;
+}
+
+.suporte_conteudo{
+    height: 550px;
+    width: 450px;
+    margin-left: 580px;
+    margin-top: 120px;
+    background-color: #696969;
+    z-index: 2;
+    position: absolute;
+}
+
+.suporte_titulo{
+    width: 100%;
+    height: 35px;
+    opacity: 0.5;
+    background-color: 	#9400D3;
+}
+
+.titulo_formulario{
+    width: 240px;
+    height: 30px;
+    font-size: 22px;
+    padding-top: 4px;
+    color: #FFF;
+    margin: auto;
+
+}
+
+.suporte_eventos{
+    height: 35px;
+    width: 100%;
+    margin-top: 15px;
+    /* background-color: #000; */
+}
+
+.segura_botao{
+    height: 40px;
+    width: 200px;
+    margin: auto;
+}
+
+.btn_confirmar{
+    width: 180px;
+    height: 40px;
+    margin: auto;
+    background-color: #F3F3F3;
+}
+
+.suporte_eventos_obs{
+    height: 135px;
+    width: 100%;
+    margin-top: 15px;
+    /* background-color: #000; */
+}
+
+.titulo_subtopicos{
+    width: 130px;
+    height: 30px;
+    font-size: 22px;
+    padding-top: 4px;
+    padding-left: 20px;
+    color: #000;
+    float: left;
+}
+
+.titulo_subtopicos2{
+    width: 130px;
+    height: 30px;
+    font-size: 22px;
+    padding-top: 4px;
+    padding-left: 20px;
+    color: #000;
+    float: left;
+}
+
+.campos{
+    width: 300px;
+    height: 30px;
+    background-color: #FFF;
+    float: left;
+    /* margin-top: 2px; */
+}
+
+.rd_titulo{
+    height: 24px;
+    font-size: 20px;
+}
+
+.suporte_lista{
+    width: 100%;
+    height: 20px;
+    background: antiquewhite;
+}
+
+.suport_mesa{
+    width: 25%;
+    height: 100%;
+    float: left;
+    background: #9400D3;
+}
